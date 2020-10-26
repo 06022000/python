@@ -36,7 +36,7 @@
 
 
 
-# 2nd programmm  that is very very important................................()++++++()
+# 2nd programmm  that is very very important.()++++++()
 
 
 # data=[104,101,4,105,308,103,5,

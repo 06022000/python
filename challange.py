@@ -15,7 +15,7 @@ print("""1.learn python
 5.learn ruby
 0=exit""")
 
-print("press enter")
+print("press enter the no.")
 number=""
 
 
